@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(32, 3, 87);
+ 
+}
+h2{
+    -webkit-text-fill-color: aqua;
+}
+.logo img{
+ 
+    border-radius: 50%;
+    
+    
+}
